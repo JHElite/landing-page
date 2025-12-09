@@ -213,6 +213,24 @@
       ]
     },
     {
+      "name": "GATES ",
+      "description": "We perform service and installation on all gates, whether it be pedestrian gates or rolling traffic gates!",
+      "images": [
+        {
+          "src": "src/assets/images/managed/image000000-2-.jpg",
+          "alt": "Gate Motor"
+        },
+        {
+          "src": "src/assets/images/managed/image000001.jpg",
+          "alt": "Gate with Panic"
+        },
+        {
+          "src": "src/assets/images/managed/image000002.jpg",
+          "alt": "Front Gate"
+        }
+      ]
+    },
+    {
       "name": "MEET THE FLEET",
       "description": "We've got wheels on road on both the East Coast and West Coast of Florida - ready to tackle your Service or Installation needs!",
       "subDescriptions": [
@@ -238,11 +256,6 @@
           "alt": "EC Shop"
         }
       ]
-    },
-    {
-      "name": "GATES ",
-      "description": "We perform service and installation on all gates, whether it be pedestrian gates or rolling traffic gates!",
-      "images": []
     }
   ]
 }
