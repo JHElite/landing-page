@@ -228,11 +228,19 @@
           "src": "src/assets/images/managed/image000002.jpg",
           "alt": "Front Gate"
         }
+      ],
+      "subDescriptions": [
+        {
+          "description": "Pedestrian gates are just as important as your doors, when it comes to security and logistics.  Whether your gates require Access Control or electric panic hardware, we've got you covered!"
+        },
+        {
+          "description": "Faulty Traffic gates can damper your traffic flow and security!  Let us service your traffic gates today!"
+        }
       ]
     },
     {
       "name": "MEET THE FLEET",
-      "description": "We've got wheels on road on both the East Coast and West Coast of Florida - ready to tackle your Service or Installation needs!",
+      "description": "We perform service and installation on all gates, whether it be pedestrian gates or traffic gates!  Let us assist you with ensuring that your perimeter is secure, from all access points!",
       "subDescriptions": [
         {
           "description": "MEET THE **'ELITE'** FLEET!"
