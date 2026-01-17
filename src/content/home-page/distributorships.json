@@ -18,14 +18,6 @@
       }
     },
     {
-      "name": "Rytec Doors",
-      "href": "https://www.rytecdoors.com/",
-      "image": {
-        "src": "src/assets/images/managed/rytec-nucor-logo.png",
-        "alt": "Rytec Doors Logo"
-      }
-    },
-    {
       "href": "https://www.tormax.com/",
       "name": "Tormax",
       "image": {
